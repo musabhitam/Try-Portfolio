@@ -29,7 +29,7 @@ return [
 
     'about' => [
         'paragraphs' => [
-            'I\'m Ahmad Mus\'ab Al-Khair bin Fauzy, a Diploma in Computer Science student at UMPSA. I like learning new skills fast, and I work well both on my own and in a team.',
+            'I\'m Ahmad Mus\'ab Al-Khair bin Fauzy, a Diploma in Computer Science student at UMPSA. I like learning new skills fast and I work well both on my own and in a team.',
             'Outside class I volunteer at university events, including Hackathon 2025 and Arena Showdown 2025.',
         ],
         'stats' => [
